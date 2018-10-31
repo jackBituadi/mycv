@@ -33,5 +33,5 @@ body{
     color: black;
 }
 table tr:nth-child(even){
-    background: yellow;
+    background: rgb(123, 243, 107);
 }
